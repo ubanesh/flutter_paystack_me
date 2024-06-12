@@ -29,7 +29,7 @@ android {
 
     namespace = "co.paystack.flutterpaystack"
 
-    
+
 
     sourceSets {
         main.java.srcDirs += 'src/main/kotlin'
